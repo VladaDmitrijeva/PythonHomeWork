@@ -1,6 +1,4 @@
 
-
-
 astr = input ("Please, enter your age ")
 bstr = input ("Do you have driver license? Please, answer Yes or No ")
 a = int(astr)
