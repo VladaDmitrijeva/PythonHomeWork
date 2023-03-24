@@ -4,5 +4,5 @@ def productoflist(list):
         result = result * i
     return result
     
-print(productoflist([5,10,2]))
+print(productoflist([5,10,2,3]))
 
